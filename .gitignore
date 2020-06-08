@@ -18,6 +18,17 @@
 *.zip
 *.tar.gz
 *.rar
+**/target/
+.settings/
+.classpath
+.mymetadata
+.project
+.gitconfig
+.idea/
+*.iml
+**/classes/
+Thumbs.db
+database.properties
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
